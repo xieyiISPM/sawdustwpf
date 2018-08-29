@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:sawdust"
         xmlns:Control="clr-namespace:sawdust.Views.Users"
         mc:Ignorable="d"
-        Title="SawDust Cabinetry Management System" Height="450" Width="800" FontSize="16">
+        Title="SawDust Cabinetry Management System" Height="600" Width="1100" FontSize="16">
     <Grid>
         <TabControl Margin="10" BorderBrush="Gainsboro">
             <TabControl.Resources>
